@@ -1,7 +1,7 @@
 # data-science-projects
 This repository includes different data science projects I have worked on using machine learning
 
-Hey, Santiago here, I have been working obsessively on different data science projects, which use Python, Numpy, Pandas, Scipy, Seaborn, Matplotlib and Scikit Learn
+I have been working obsessively on different data science projects, which use Python, Numpy, Pandas, Scipy, Seaborn, Matplotlib and Scikit Learn
 
 Please feel free to check out some of the projects 
 
